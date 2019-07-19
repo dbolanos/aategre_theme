@@ -1,0 +1,19 @@
+Version 1.1.0
+    Fixed:
+    - Compatibility with WordPress 4.9.8
+    - Update plugins to their latest versions
+    - Improve theme styles
+    - Update documentation
+
+    Changed:
+    - Contact forms to make forms GDPR-compliant
+
+    Added:
+    - WP GDPR Compliance plugin
+    - Privacy Policy page
+    - Compatibility with Gutenberg
+	- Alert to Demo data installation
+    - New style
+
+Version 1.0
+	Release
